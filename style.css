@@ -1,0 +1,15 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+
+    background-image: url("https://cdn.statically.io/img/wallpaperaccess.com/full/527063.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
